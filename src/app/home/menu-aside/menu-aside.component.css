@@ -1,0 +1,19 @@
+.margin-top-1{
+  margin-top: 10px;
+}
+.margin-bottom-1{
+  margin-bottom: 10px;
+}
+#menu-aside .active a:first-child{
+  background-color: #00cc00;
+}
+#menu-aside a{
+  color: grey;
+}
+#menu-aside .active a{
+  color:white;
+}
+.second-tab a{
+  border-radius: 4px;
+}
+

@@ -1,0 +1,42 @@
+.margin-top-1{
+  margin-top: 10px;
+}
+.margin-bottom-1{
+  margin-bottom: 10px;
+}
+.header-left{
+  float: left;
+  line-height: 60px;
+}
+.header-left img{
+  display: inline-block;
+  margin-top: -20px;
+  padding: 5px;
+}
+.header-left span{
+  display: inline-block;
+  color: grey;
+  font-size: 30px;
+  padding: 10px;
+}
+.header-right{
+  float: right;
+  line-height: 60px;
+}
+.header-right ul li{
+  float: left;
+  list-style: none;
+  padding: 10px;
+  color: grey;
+}
+.header-right-user{
+  margin: 0px 10px 0px;
+}
+#changePwd .form-group{
+  padding: 10px;
+}
+#changePwd  label{
+  text-align: center;
+  line-height: 34px;
+  padding: 0px;
+}
